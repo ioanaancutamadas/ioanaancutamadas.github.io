@@ -43,3 +43,10 @@ button.open {
  width:320px;
   float:left;
 }
+.bresa-securitate {
+  color:red;
+  font-weight:bold;
+}
+h4.sectiune-noua {
+  margin-top:40px;
+}
