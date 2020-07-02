@@ -47,6 +47,10 @@ button.open {
   color:red;
   font-weight:bold;
 }
+.securitate-ok {
+  color:green;
+  font-weight:bold;
+}
 h4.sectiune-noua {
   margin-top:40px;
 }
