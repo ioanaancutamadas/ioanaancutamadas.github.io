@@ -17,9 +17,8 @@ h4 {
 }
 .left-container a {
   display:block;
-  width:
 }
-button.close {
+.close-door {
   background:red;
   color:#fff;
   font-size:14px;
@@ -27,7 +26,7 @@ button.close {
   padding:10px 24px 8px;
   font-weight:bold;
 }
-button.open {
+.open-door {
   background:blue;
   color:#fff;
   font-size:14px;
