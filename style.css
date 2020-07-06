@@ -17,13 +17,19 @@ h4 {
 }
 .left-container a {
   display:block;
+  text-align:center;
+  text-decoration:none;
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  border-radius: 5px;
+  width: 200px;
 }
 .close-door {
   background:red;
   color:#fff;
   font-size:14px;
   border:none;
-  padding:10px 24px 8px;
+  padding:10px 0 8px;
   font-weight:bold;
 }
 .open-door {
