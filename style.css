@@ -23,6 +23,7 @@ h4 {
   -moz-border-radius: 5px;
   border-radius: 5px;
   width: 200px;
+  box-sizing:border-box;
 }
 .closedoor a {
   background:red;
