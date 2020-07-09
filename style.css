@@ -64,3 +64,25 @@ h4 {
 h4.sectiune-noua {
   margin-top:40px;
 }
+
+@media only screen and (max-device-width: 480px) {
+  .container {
+    padding:20px;
+  }
+  h2 {
+    font-size:18px;
+  }
+  h4 {
+  font-size:14px;
+  }
+  .left-container {
+    width:100%;
+    float:left;
+    clear:both;
+  }
+  .right-container {
+    width:100%;
+    float:left;
+    clear:both;
+  }
+}
