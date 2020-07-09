@@ -73,6 +73,7 @@ h4.sectiune-noua {
   }
   h2 {
     font-size:18px;
+    text-align:left;
   }
   h4 {
   font-size:14px;
@@ -86,5 +87,6 @@ h4.sectiune-noua {
     width:100%;
     float:left;
     clear:both;
+    margin-top:40px;
   }
 }
